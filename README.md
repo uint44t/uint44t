@@ -1,8 +1,6 @@
-# 啥都不会废物一个
-- 啥都想学
-- 啥都学不深 
-- 稍微难点就不会  
+# Hi there 👋
+- College student in SUSTC.
+- CS
 
-[![github data](https://github-readme-stats.vercel.app/api?username=uint44t)]()  
----
-😭😭😭
+
+![Uint44t's Github stats](https://github-readme-stats.vercel.app/api?username=uint44t&theme=vue-dark&show_icons=true)
